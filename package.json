@@ -1,0 +1,27 @@
+{
+  "name": "nucgenda",
+  "version": "1.0.0",
+  "description": "Nuc-genda es una cli en Node js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bara1422/nucgenda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bara1422/nucgenda/issues"
+  },
+  "homepage": "https://github.com/Bara1422/nucgenda#readme",
+  "dependencies": {
+    "chalk": "^5.1.0",
+    "commander": "^9.4.1",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.1.3"
+  }
+}
